@@ -1,7 +1,3 @@
-Voici un exemple de fichier README pour votre projet :
-
----
-
 # Wildya First Bot
 
 Ce script a été développé pour automatiser l'envoi d'un message "first" à une heure précise sur un serveur Discord. Sur le serveur Wildya, chaque jour à 00h00, les joueurs s'amusent à être les premiers à écrire "first". Ce bot vous permettra de toujours être le premier à écrire "first".
